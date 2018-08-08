@@ -1,0 +1,10 @@
+{
+  "password" : "seele",
+  "address" : "127.0.0.1",
+  "method" : "HTTP",
+  "bolt_port" : null,
+  "http_port" : 7474,
+  "path_to_log": "no_instance",
+  "converter" : false,
+  "php_unit_loaded": true
+}
