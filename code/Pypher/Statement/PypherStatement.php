@@ -15,5 +15,5 @@ class PypherStatement {
     const LEFT_RELATION     = ">";
     const START_RELATION    = "-[";
     const END_RELATION      = "]-";
-    
+
 }
